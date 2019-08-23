@@ -28,7 +28,7 @@ public class Activity2 extends AppCompatActivity {
 
         webcontrol.setWebViewClient(new WebViewClient() );
        // webcontrol.loadUrl("https://www.rbc.ru/");
-        webcontrol.loadUrl("file:///android_asset/html1.html");
+        webcontrol.loadUrl("file:///android_asset/lesson2.html");
 
     }
 }
